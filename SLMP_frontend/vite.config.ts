@@ -30,7 +30,7 @@ export default defineConfig({
     port: 5173,
     proxy: {
         '/peApi/kodata': {
-            target: 'http://10.101.104.63:9999',
+            target: 'http://x.x.x.63:9999',
             changeOrigin: true,
             rewrite: (path) => path.replace(/^\/peApi/, '')
         },
