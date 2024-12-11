@@ -1,0 +1,7 @@
+{
+    "CHATGPT_MODEL":"chatgpt",
+    "OPENAI_API_BASE":"https://xxx.openai.azure.com/",
+    "OPENAI_API_VERSION":"2023-03-15-preview",
+    "OPENAI_API_KEY": "f9xxxxxxxxxxxxxxxxxx"
+
+}

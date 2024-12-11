@@ -1,0 +1,16 @@
+id,title,journal,year,author,institution,email,response_text
+1,A metagenomics roadmap to the uncultured genome diversity in hypersaline soda lake sediments,Microbiome,2018,"['Charlotte D. Vavourakis', 'Adrian-Stefan Andrei', 'Maliheh Mehrshad', 'Rohit Ghai', 'Dimitry Y. Sorokin', 'Gerard Muyzer']","['Microbial Systems Ecology, Department of Freshwater and Marine Ecology, Institute for Biodiversity and Ecosystem Dynamics, Faculty of Science, University of Amsterdam']",['G.Muijzer@uva.nl'],"{
+  ""title_of_the_paper"": ""A metagenomics roadmap to the uncultured genome diversity in hypersaline soda lake sediments"",
+  ""journal_of_the_paper"": ""Microbiome"",
+  ""year_of_the_paper"": ""2018"",
+  ""author_of_the_paper"": [
+    ""Charlotte D. Vavourakis"",
+    ""Adrian-Stefan Andrei"",
+    ""Maliheh Mehrshad"",
+    ""Rohit Ghai"",
+    ""Dimitry Y. Sorokin"",
+    ""Gerard Muyzer""
+  ],
+  ""the_institution_of_the_author_of_the_paper"": ""Microbial Systems Ecology, Department of Freshwater and Marine Ecology, Institute for Biodiversity and Ecosystem Dynamics, Faculty of Science, University of Amsterdam"",
+  ""email"": ""G.Muijzer@uva.nl""
+}"

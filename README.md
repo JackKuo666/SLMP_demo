@@ -12,15 +12,14 @@ obtaining required information, and generating new knowledge.
 ![](static/slmp.png)
 ![](static/img_4.png)
 
-# [front-end code](./paperExtract_frontend)
+# [front-end code](./SLMP_frontend)
 ![](static/img.png)
 <img src="static/img_1.png" alt="Description" width="500" height=auto>
 <img src="static/img_2.png" alt="Description" width="500" height=auto>
 <img src="static/img_3.png" alt="Description" width="500" height=auto>
 
-# [back-end code]()
+# [back-end code](SLMP_backend)
 
 # Demo video
 
-This is the [demo video](https://youtu.be/6M5pLErK3R0) of paper 《SLMP: A Scientific Literature Management Platform Based on Large Language Models》ICKG2024
-
+This is the [demo video](https://youtu.be/6M5pLErK3R0) of paper. 
