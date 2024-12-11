@@ -9,14 +9,14 @@ and question answering. The core techniques used to support the four modules acr
 provided contexts, and thus generate high-quality texts and conduct in-depth information retrieval and question answering. Our platform can help researchers manage and utilize literature more effectively and efficiently for finding relevant literature, 
 obtaining required information, and generating new knowledge.
 
-![](static/slmp 框架.png)
+![](static/slmp.png)
 ![](static/img_4.png)
 
 # [front-end code](./paperExtract_frontend)
 ![](static/img.png)
-![](static/img_1.png)
-![](static/img_2.png)
-![](static/img_3.png)
+<img src="static/img_1.png" alt="Description" width="150" height="100">
+<img src="static/img_2.png" alt="Description" width="150" height="100">
+<img src="static/img_3.png" alt="Description" width="150" height="100">
 
 # [back-end code]()
 
