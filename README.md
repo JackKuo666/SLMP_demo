@@ -14,9 +14,9 @@ obtaining required information, and generating new knowledge.
 
 # [front-end code](./paperExtract_frontend)
 ![](static/img.png)
-<img src="static/img_1.png" alt="Description" width="150" height="100">
-<img src="static/img_2.png" alt="Description" width="150" height="100">
-<img src="static/img_3.png" alt="Description" width="150" height="100">
+<img src="static/img_1.png" alt="Description" width="300" height="200">
+<img src="static/img_2.png" alt="Description" width="300" height="200">
+<img src="static/img_3.png" alt="Description" width="300" height="200">
 
 # [back-end code]()
 
