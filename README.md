@@ -23,3 +23,17 @@ obtaining required information, and generating new knowledge.
 # Demo video
 
 This is the [demo video](https://youtu.be/6M5pLErK3R0) of paper. 
+
+
+# Citation
+
+Please cite the following paper if you use this code in your work.
+
+```
+@INPROCEEDINGS{
+  author={Guo, M., Jiang, J., Wu, F., Sun, S., Zhang, C., Li, W., ... & Wu, X.},
+  title={SLMP: A Scientific Literature Management Platform Based on Large Language Models.}, 
+  year={2024, December},
+  volume={In 2024 IEEE International Conference on Knowledge Graph (ICKG)},
+  number={ (pp. 104-109). IEEE.},
+```
