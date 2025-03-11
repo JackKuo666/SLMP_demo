@@ -30,10 +30,15 @@ This is the [demo video](https://youtu.be/6M5pLErK3R0) of paper.
 Please cite the following paper if you use this code in your work.
 
 ```
-@INPROCEEDINGS{
-  author={Guo, M., Jiang, J., Wu, F., Sun, S., Zhang, C., Li, W., ... & Wu, X.},
-  title={SLMP: A Scientific Literature Management Platform Based on Large Language Models.}, 
-  year={2024, December},
-  volume={In 2024 IEEE International Conference on Knowledge Graph (ICKG)},
-  number={ (pp. 104-109). IEEE.},
+@INPROCEEDINGS{10884340,
+  author={Guo, Menghao and Jiang, Jinling and Wu, Fan and Sun, Shanxin and Zhang, Chen and Li, Wenhui and Sun, Zeyi and Chen, Guangyong and Wu, Xindong},
+  booktitle={2024 IEEE International Conference on Knowledge Graph (ICKG)}, 
+  title={SLMP: A Scientific Literature Management Platform Based on Large Language Models}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={104-109},
+  keywords={Training;Large language models;Knowledge graphs;Information retrieval;Data models;Question answering (information retrieval);Large Language Model;Literature Management and Retrieval;Question Answering},
+  doi={10.1109/ICKG63256.2024.00021}}
+
 ```
